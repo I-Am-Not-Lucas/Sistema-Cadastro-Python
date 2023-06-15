@@ -6,3 +6,5 @@ pegando informações como telefone e nome. Esse projeto será dividido em vers�
 Versão 1 - Possibilitar um CRUD completo via terminal, um alerta quando um  aluno que está com mês atrasado.
 
 Versão 2 - Produzir uma Interface gráfica
+
+<h3>Situação: Incompleto
